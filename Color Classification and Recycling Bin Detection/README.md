@@ -23,8 +23,8 @@ The folder structure is divided into two folders.
 7. **trained_theta.npy**: marginal pdf file
 
 ## Results
-![Fig_1](Figure_1.png)
-![Fig_2](Figure_2.png)
+![Fig_1](results/Figure_1.png)
+![Fig_2](results/Figure_2.png)
 
 For classification and detection, only the **pixel_classifier.py** and the **bin_detector.py** files are required, along with their respective training parameters **trained_mu.npy**, **trained_sigma.npy** and **trained_theta.npy**. All other files are made available for reference purposes. Please contact me in case of any issues.
 
