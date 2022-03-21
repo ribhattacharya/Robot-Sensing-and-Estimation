@@ -26,6 +26,10 @@ Each .py script is organized as follows;
 3. **pr3_utils.py**: script containing load_data and visualization functions to be placed in (*root_folder\ ....npy*)
 
 
+## Results
+![Fig3](results/Figure_3.png)
+![Fig4](results/Figure_4.png)
+
 Note: VSCode had an update which might be casusing some error (it did for me). If this happens, please copy the code into a jupyter NB and try. It works completely fine in Jupyter. The entire code can be pasted and run from a single cell.
 
 Please contact the undersigned in case of any questions/clarifications.
