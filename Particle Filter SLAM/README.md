@@ -24,7 +24,7 @@ The .py script is organized as follows;
 3. **(Optional) encoder/fog.csv**: Both data files have been parsed and the v/w have been calculated in *input_data.npy*. But in case the *compute_inputs()* function has to be run, these files are required in the same folder as lidar.csv (*root_folder\sensor_data\encoder.csv* and *root_folder\sensor_data\fog.csv*)
 
 ## Results
-<a href="url"><img src="https://github.com/ribhattacharya/Robot-Sensing-and-Estimation/blob/main/Particle%20Filter%20SLAM/results/Figure_1.png" align="left" height="500" ></a>
-<a href="url"><img src="https://github.com/ribhattacharya/Robot-Sensing-and-Estimation/blob/main/Particle%20Filter%20SLAM/results/Figure_2.png" align="right" height="500" ></a>
-<a href="url"><img src="https://github.com/ribhattacharya/Robot-Sensing-and-Estimation/blob/main/Particle%20Filter%20SLAM/results/Figure_3.png" align="left" height="500" ></a>
-<a href="url"><img src="https://github.com/ribhattacharya/Robot-Sensing-and-Estimation/blob/main/Particle%20Filter%20SLAM/results/Figure_4.png" align="right" height="500" ></a>
+
+| ![Fig1](results/Figure_1.png) | ![Fig2](results/Figure_2.png) |
+|-------------------------------|-------------------------------|
+| ![Fig3](results/Figure_3.png) | ![Fig4](results/Figure_4.png) |
