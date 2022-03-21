@@ -23,13 +23,8 @@ The .py script is organized as follows;
 2. **lidar.csv**: lidar data, to be stored as *root_folder\sensor_data\lidar.csv*
 3. **(Optional) encoder/fog.csv**: Both data files have been parsed and the v/w have been calculated in *input_data.npy*. But in case the *compute_inputs()* function has to be run, these files are required in the same folder as lidar.csv (*root_folder\sensor_data\encoder.csv* and *root_folder\sensor_data\fog.csv*)
 
-
-Please contact the undersigned in case of any questions/clarifications.
-
-
-Rishabh Bhattacharya  
-Mechanical and Aerospace Engineering  
-ribhattacharya@ucsd.edu
-
-
-
+## Results
+<a href="url"><img src="https://github.com/ribhattacharya/Robot-Sensing-and-Estimation/blob/main/Particle%20Filter%20SLAM/results/Figure_1.png" align="left" height="500" ></a>
+<a href="url"><img src="https://github.com/ribhattacharya/Robot-Sensing-and-Estimation/blob/main/Particle%20Filter%20SLAM/results/Figure_2.png" align="right" height="500" ></a>
+<a href="url"><img src="https://github.com/ribhattacharya/Robot-Sensing-and-Estimation/blob/main/Particle%20Filter%20SLAM/results/Figure_3.png" align="left" height="500" ></a>
+<a href="url"><img src="https://github.com/ribhattacharya/Robot-Sensing-and-Estimation/blob/main/Particle%20Filter%20SLAM/results/Figure_4.png" align="right" height="500" ></a>
