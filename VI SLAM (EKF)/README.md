@@ -27,8 +27,8 @@ Each .py script is organized as follows;
 
 
 ## Results
-![Fig3](results/Figure_3.png)
-![Fig4](results/Figure_4.png)
+| ![Fig3](results/Figure_3.png) | ![Fig4](results/Figure_4.png) |
+|-------------------------------|-------------------------------|
 
 Note: VSCode had an update which might be casusing some error (it did for me). If this happens, please copy the code into a jupyter NB and try. It works completely fine in Jupyter. The entire code can be pasted and run from a single cell.
 
