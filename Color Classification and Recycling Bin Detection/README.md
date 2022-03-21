@@ -22,6 +22,9 @@ The folder structure is divided into two folders.
 6. **trained_sigma.npy**: covariance data file
 7. **trained_theta.npy**: marginal pdf file
 
+## Results
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 For classification and detection, only the **pixel_classifier.py** and the **bin_detector.py** files are required, along with their respective training parameters **trained_mu.npy**, **trained_sigma.npy** and **trained_theta.npy**. All other files are made available for reference purposes. Please contact me in case of any issues.
 
 
