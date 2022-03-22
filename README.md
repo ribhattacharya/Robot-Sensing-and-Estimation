@@ -1,6 +1,5 @@
 # Robot-Sensing-and-Estimation
-Projects involving sensing/estimation of the environment and location of robots
-This repository contains 3 folders/projects
+Projects involving sensing/estimation of the environment and location of robots. This repository contains 3 folders/projects,
 
 ## Color Classification and Recycling Bin Detection
 - Trained a probabilistic color model from given pixel data to distinguish among red, green, and blue pixels
