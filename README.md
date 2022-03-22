@@ -3,7 +3,7 @@ Projects involving sensing/estimation of the environment and location of robots.
 
 ## Color Classification and Recycling Bin Detection
 - Trained a probabilistic color model from given pixel data to distinguish among red, green, and blue pixels
-- Trained a probabilistic color model to recognize recycling-bin specific blue color and used it to segment unseen images into blue regions. Given the blue regions, detected blue recycling bins and formed a bounding box around each one
+- Trained a probabilistic color model to recognize recycling-bin specific blue color and used it to segment unseen images into blue regions using Gaussian Discriminant Analysis. Given the blue regions, detected blue recycling bins and formed a bounding box around each one
 
 ## Particle Filter SLAM
 - Implemented simultaneous localization and mapping (SLAM) using odometry, 2-D LiDAR scans, and stereo camera measurements from an autonomous car. Used the odometry and LiDAR measurements to localize the robot and build a 2-D occupancy grid map of the environment. 
